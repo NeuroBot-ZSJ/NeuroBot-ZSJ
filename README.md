@@ -1,6 +1,5 @@
-<p align="center">
-  <img width="80%" alt="Hello, I'm NeuroBot. I build intelligent robots!" src="./assets/NeuroBot_logo_resized.png" />
-</p>
+<h1 align="center">Hi, I'm NeuroBot 🤖🧠</h1>
+
 <!-- GitHub Star link -->
 <p align="center">
   <a href="https://stars.github.com/profiles/denvercoder1/">
