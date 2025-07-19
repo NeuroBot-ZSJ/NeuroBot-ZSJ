@@ -7,7 +7,7 @@
 </p>
 <br />
 
-I'm a self-taught passionate FrontEnd developer from India 🇮🇳
+I'm a robotics enthusiast and AI engineer, building intelligent systems that perceive, decide, and act 🤖📡
 
 **About me**
 
