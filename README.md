@@ -1,18 +1,24 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
-
+<p align="center">
+  <img width="80%" alt="Hello, I'm NeuroBot. I build intelligent robots!" src="./assets/NeuroBot_logo_resized.png" />
+</p>
+<!-- GitHub Star link -->
+<p align="center">
+  <a href="https://stars.github.com/profiles/denvercoder1/">
+    <img src="https://github.com/DenverCoder1/DenverCoder1/assets/20955511/ca15be3f-d00b-438e-91f6-fb5568c1f632" alt="GitHub Star 2023"/></a>
+</p>
 <br />
 
 I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 
 **About me**
 
-- 💼 FrontEnd Engineer at [Razorpay](http://razorpay.com/)
+- 🧠 AI + Robotics enthusiast | ROS2, SLAM, Perception
 
-- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **50K** stars on GitHub
+- 📦 Working on YOLOv8 + RealSense + Jetson projects
 
-- ❤️ I love writing TypeScript, and building fun experiments on type-level
+- 🎯 Passionate about computer vision, slam, and motion planning
 
-- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
+- 💬 Ask me about robots, AI, or open source!
 
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
