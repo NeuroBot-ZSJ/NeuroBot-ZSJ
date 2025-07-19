@@ -28,9 +28,7 @@ I'm a robotics enthusiast and AI engineer, building intelligent systems that per
 - 💬 Ask me about robots, AI, or open source!
 
 
-
-
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=NeuroBot-ZSJ&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="NeuroBot's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeuroBot-ZSJ&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 #### Top Repositories
