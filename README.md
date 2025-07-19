@@ -9,11 +9,16 @@
 
 <p align="center">
   <a href="https://github.com/NeuroBot-ZSJ">
-  <img width="150px" src="https://img.shields.io/badge/github-NeuroBot--ZSJ-blueviolet?logo=github" alt="GitHub"/>
+    <img height="40px" src="https://img.shields.io/badge/github-NeuroBot--ZSJ-blueviolet?logo=github" alt="GitHub"/>
   </a>
-  <a href="https://github.com/ai-winter/ai-winter/blob/main/assets/qr_code.jpg"><img width="150px" src="https://img.shields.io/badge/wechat-NeuroBot--ZSJ-brightgreen?logo=WeChat&wechat=Winter" alt="wechat"/></a>
-  <a href="https://blog.csdn.net/weixin_52399078?spm=1010.2135.3001.10640"><img  width="150px" src="https://img.shields.io/badge/csdn-NeuroBot--ZSJ-orange?logo=SparkPost&csdn=mr-winter" alt="csdn"/></a>
-</p>   
+  <a href="https://github.com/ai-winter/ai-winter/blob/main/assets/qr_code.jpg">
+    <img height="40px" src="https://img.shields.io/badge/wechat-NeuroBot--ZSJ-brightgreen?logo=WeChat&wechat=Winter" alt="wechat"/>
+  </a>
+  <a href="https://blog.csdn.net/weixin_52399078?spm=1010.2135.3001.10640">
+    <img height="40px" src="https://img.shields.io/badge/csdn-NeuroBot--ZSJ-orange?logo=SparkPost&csdn=mr-winter" alt="csdn"/>
+  </a>
+</p>
+
 
 I'm a robotics enthusiast and AI engineer, building intelligent systems that perceive, decide, and act 🤖📡
 
