@@ -12,7 +12,7 @@
   <img width="150px" src="https://img.shields.io/badge/github-NeuroBot--ZSJ-blueviolet?logo=github" alt="GitHub"/>
   </a>
   <a href="https://github.com/ai-winter/ai-winter/blob/main/assets/qr_code.jpg"><img width="150px" src="https://img.shields.io/badge/wechat-Winter-brightgreen?logo=WeChat&wechat=Winter" alt="wechat"/></a>
-  <a href="https://blog.csdn.net/FRIGIDWINTER"><img  width="150px" src="https://img.shields.io/badge/csdn-mr_winter-orange?logo=SparkPost&csdn=mr-winter" alt="csdn"/></a>
+  <a href="https://blog.csdn.net/weixin_52399078?spm=1010.2135.3001.10640"><img  width="150px" src="https://img.shields.io/badge/csdn-mr_winter-orange?logo=SparkPost&csdn=mr-winter" alt="csdn"/></a>
 </p>   
 
 I'm a robotics enthusiast and AI engineer, building intelligent systems that perceive, decide, and act 🤖📡
