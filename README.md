@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm NeuroBot 🤖🧠</h1>
+<h1 align="center">Hi, I'm NeuroBot-ZSJ 🤖🧠</h1>
 
 <!-- GitHub Star link -->
 <p align="center">
