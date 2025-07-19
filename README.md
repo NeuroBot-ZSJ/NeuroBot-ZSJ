@@ -17,3 +17,4 @@
 📫 **Contact me**: [Email](2605516018@qq.com) | [Wechat](Z18767177099) | [Telephone number](18767177099)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=NeuroBot&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
