@@ -48,9 +48,12 @@ I'm a robotics enthusiast and AI engineer, building intelligent systems that per
 <br />
 <br />
 
-<a href="https://twitter.com/anuraghazru">
-  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+<!-- QQ Mail -->
+<a href="mailto:2605516018@qq.com" target="_blank">
+  <img align="right" alt="QQ Mail" width="20px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tencentqq.svg" />
 </a>
-<a href="https://codesandbox.io/u/anuraghazra">
-  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
+
+<!-- Gmail -->
+<a href="mailto:g2605516018@gmail.com" target="_blank">
+  <img align="right" alt="Gmail" width="20px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" />
 </a>
