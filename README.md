@@ -38,12 +38,11 @@ I'm a robotics enthusiast and AI engineer, building intelligent systems that per
 
 #### Top Repositories
 
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
+<a href="https://github.com/NeuroBot-ZSJ/NeuroBot-ZSJ">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NeuroBot-ZSJ&repo=NeuroBot-ZSJ&theme=buefy&cache_seconds=10" />
 </a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
+<a href="https://github.com/NeuroBot-ZSJ/isaac_ros_yolov8">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NeuroBot-ZSJ&repo=isaac_ros_yolov8&theme=buefy&cache_seconds=10" />
 </a>
 
 <br />
